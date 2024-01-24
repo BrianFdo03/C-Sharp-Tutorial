@@ -1,0 +1,6 @@
+E:\C# Practice\Tutorial Codes\Lab 1\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+E:\C# Practice\Tutorial Codes\Lab 1\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+E:\C# Practice\Tutorial Codes\Lab 1\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+E:\C# Practice\Tutorial Codes\Lab 1\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+E:\C# Practice\Tutorial Codes\Lab 1\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+E:\C# Practice\Tutorial Codes\Lab 1\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
