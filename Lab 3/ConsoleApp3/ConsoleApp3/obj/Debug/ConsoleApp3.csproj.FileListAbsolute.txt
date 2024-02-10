@@ -1,0 +1,7 @@
+E:\C# Practice\Tutorial Codes\Lab 3\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+E:\C# Practice\Tutorial Codes\Lab 3\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+E:\C# Practice\Tutorial Codes\Lab 3\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+E:\C# Practice\Tutorial Codes\Lab 3\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+E:\C# Practice\Tutorial Codes\Lab 3\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+E:\C# Practice\Tutorial Codes\Lab 3\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+E:\C# Practice\Tutorial Codes\Lab 3\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
