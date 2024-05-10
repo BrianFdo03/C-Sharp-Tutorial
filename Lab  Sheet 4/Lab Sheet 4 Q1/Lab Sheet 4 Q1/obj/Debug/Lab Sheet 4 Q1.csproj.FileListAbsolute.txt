@@ -1,0 +1,10 @@
+E:\C# Practice\Tutorial Codes\Lab  Sheet 4\Lab Sheet 4 Q1\Lab Sheet 4 Q1\bin\Debug\Lab Sheet 4 Q1.exe.config
+E:\C# Practice\Tutorial Codes\Lab  Sheet 4\Lab Sheet 4 Q1\Lab Sheet 4 Q1\bin\Debug\Lab Sheet 4 Q1.exe
+E:\C# Practice\Tutorial Codes\Lab  Sheet 4\Lab Sheet 4 Q1\Lab Sheet 4 Q1\bin\Debug\Lab Sheet 4 Q1.pdb
+E:\C# Practice\Tutorial Codes\Lab  Sheet 4\Lab Sheet 4 Q1\Lab Sheet 4 Q1\obj\Debug\Lab Sheet 4 Q1.csproj.AssemblyReference.cache
+E:\C# Practice\Tutorial Codes\Lab  Sheet 4\Lab Sheet 4 Q1\Lab Sheet 4 Q1\obj\Debug\Lab_Sheet_4_Q1.Form1.resources
+E:\C# Practice\Tutorial Codes\Lab  Sheet 4\Lab Sheet 4 Q1\Lab Sheet 4 Q1\obj\Debug\Lab_Sheet_4_Q1.Properties.Resources.resources
+E:\C# Practice\Tutorial Codes\Lab  Sheet 4\Lab Sheet 4 Q1\Lab Sheet 4 Q1\obj\Debug\Lab Sheet 4 Q1.csproj.GenerateResource.cache
+E:\C# Practice\Tutorial Codes\Lab  Sheet 4\Lab Sheet 4 Q1\Lab Sheet 4 Q1\obj\Debug\Lab Sheet 4 Q1.csproj.CoreCompileInputs.cache
+E:\C# Practice\Tutorial Codes\Lab  Sheet 4\Lab Sheet 4 Q1\Lab Sheet 4 Q1\obj\Debug\Lab Sheet 4 Q1.exe
+E:\C# Practice\Tutorial Codes\Lab  Sheet 4\Lab Sheet 4 Q1\Lab Sheet 4 Q1\obj\Debug\Lab Sheet 4 Q1.pdb
