@@ -1,0 +1,11 @@
+E:\C# Practice\Tutorial Codes\Lab  Sheet 5\Lab Sheet 5 Q2\Lab Sheet 5 Q2\bin\Debug\Lab Sheet 5 Q2.exe.config
+E:\C# Practice\Tutorial Codes\Lab  Sheet 5\Lab Sheet 5 Q2\Lab Sheet 5 Q2\bin\Debug\Lab Sheet 5 Q2.exe
+E:\C# Practice\Tutorial Codes\Lab  Sheet 5\Lab Sheet 5 Q2\Lab Sheet 5 Q2\bin\Debug\Lab Sheet 5 Q2.pdb
+E:\C# Practice\Tutorial Codes\Lab  Sheet 5\Lab Sheet 5 Q2\Lab Sheet 5 Q2\obj\Debug\Lab Sheet 5 Q2.csproj.AssemblyReference.cache
+E:\C# Practice\Tutorial Codes\Lab  Sheet 5\Lab Sheet 5 Q2\Lab Sheet 5 Q2\obj\Debug\Lab_Sheet_5_Q2.Form1.resources
+E:\C# Practice\Tutorial Codes\Lab  Sheet 5\Lab Sheet 5 Q2\Lab Sheet 5 Q2\obj\Debug\Lab_Sheet_5_Q2.Properties.Resources.resources
+E:\C# Practice\Tutorial Codes\Lab  Sheet 5\Lab Sheet 5 Q2\Lab Sheet 5 Q2\obj\Debug\Lab Sheet 5 Q2.csproj.GenerateResource.cache
+E:\C# Practice\Tutorial Codes\Lab  Sheet 5\Lab Sheet 5 Q2\Lab Sheet 5 Q2\obj\Debug\Lab Sheet 5 Q2.csproj.CoreCompileInputs.cache
+E:\C# Practice\Tutorial Codes\Lab  Sheet 5\Lab Sheet 5 Q2\Lab Sheet 5 Q2\obj\Debug\Lab Sheet 5 Q2.exe
+E:\C# Practice\Tutorial Codes\Lab  Sheet 5\Lab Sheet 5 Q2\Lab Sheet 5 Q2\obj\Debug\Lab Sheet 5 Q2.pdb
+E:\C# Practice\Tutorial Codes\Lab  Sheet 5\Lab Sheet 5 Q2\Lab Sheet 5 Q2\obj\Debug\Lab_Sheet_5_Q2.Form2.resources
