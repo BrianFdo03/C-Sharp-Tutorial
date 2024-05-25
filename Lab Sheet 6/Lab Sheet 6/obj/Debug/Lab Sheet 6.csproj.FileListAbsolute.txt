@@ -1,0 +1,13 @@
+E:\C# Practice\Tutorial Codes\Lab Sheet 6\Lab Sheet 6\bin\Debug\Lab Sheet 6.exe.config
+E:\C# Practice\Tutorial Codes\Lab Sheet 6\Lab Sheet 6\bin\Debug\Lab Sheet 6.exe
+E:\C# Practice\Tutorial Codes\Lab Sheet 6\Lab Sheet 6\bin\Debug\Lab Sheet 6.pdb
+E:\C# Practice\Tutorial Codes\Lab Sheet 6\Lab Sheet 6\obj\Debug\Lab Sheet 6.csproj.AssemblyReference.cache
+E:\C# Practice\Tutorial Codes\Lab Sheet 6\Lab Sheet 6\obj\Debug\Lab_Sheet_6.Contact_Details.resources
+E:\C# Practice\Tutorial Codes\Lab Sheet 6\Lab Sheet 6\obj\Debug\Lab_Sheet_6.Display_Details.resources
+E:\C# Practice\Tutorial Codes\Lab Sheet 6\Lab Sheet 6\obj\Debug\Lab_Sheet_6.Employee_Details.resources
+E:\C# Practice\Tutorial Codes\Lab Sheet 6\Lab Sheet 6\obj\Debug\Lab_Sheet_6.Form1.resources
+E:\C# Practice\Tutorial Codes\Lab Sheet 6\Lab Sheet 6\obj\Debug\Lab_Sheet_6.Properties.Resources.resources
+E:\C# Practice\Tutorial Codes\Lab Sheet 6\Lab Sheet 6\obj\Debug\Lab Sheet 6.csproj.GenerateResource.cache
+E:\C# Practice\Tutorial Codes\Lab Sheet 6\Lab Sheet 6\obj\Debug\Lab Sheet 6.csproj.CoreCompileInputs.cache
+E:\C# Practice\Tutorial Codes\Lab Sheet 6\Lab Sheet 6\obj\Debug\Lab Sheet 6.exe
+E:\C# Practice\Tutorial Codes\Lab Sheet 6\Lab Sheet 6\obj\Debug\Lab Sheet 6.pdb
